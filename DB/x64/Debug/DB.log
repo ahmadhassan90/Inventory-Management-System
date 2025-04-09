@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+C:\Users\digital\source\repos\DB\DB\MyForm4.h(373,24): warning C4101: 'ex': unreferenced local variable
+  MyForm1.cpp
+C:\Users\digital\source\repos\DB\DB\MyForm4.h(373,24): warning C4101: 'ex': unreferenced local variable
+  MyForm2.cpp
+C:\Users\digital\source\repos\DB\DB\MyForm4.h(373,24): warning C4101: 'ex': unreferenced local variable
+  MyForm4.cpp
+C:\Users\digital\source\repos\DB\DB\MyForm4.h(373,24): warning C4101: 'ex': unreferenced local variable
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DB.vcxproj -> C:\Users\digital\source\repos\DB\x64\Debug\DB.exe
